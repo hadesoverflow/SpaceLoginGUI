@@ -1,11 +1,7 @@
----
-
 ### Thư viện đã dùng trong Project: 
 * `pip install PyQt5`
 * `pip install playsound==1.2.2`
 * 
----
-
 ---
 
 ### 🚀 **SpaceLoginGUI – Giao Diện Đăng Nhập Chủ Đề Không Gian (PyQt5)**

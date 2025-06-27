@@ -1,5 +1,3 @@
----
-
 ### Thư viện đã dùng trong Project: 
 
 * `pip install PyQt5`
